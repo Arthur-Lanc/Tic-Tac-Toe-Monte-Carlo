@@ -7,4 +7,4 @@ enjoy it!!!:rocket:
 
 ![alt text](images/Tic-Tac-Toe.png)
 
-* wikipedia: <https://en.wikipedia.org/wiki/Minimax>
+* wikipedia: <https://en.wikipedia.org/wiki/Monte_Carlo>
